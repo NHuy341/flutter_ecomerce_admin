@@ -1,6 +1,7 @@
 # admin
 
-A new Flutter project.
+Username: admin@gmail.com
+Password: Admin@123
 
 ## Getting Started
 
